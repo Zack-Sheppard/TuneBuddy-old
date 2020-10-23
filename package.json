@@ -1,0 +1,14 @@
+{
+  "name": "tunebuddy",
+  "version": "0.0.1",
+  "description": "concurrent spotify queue",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "form-data": "^3.0.0",
+    "qs": "^6.9.4"
+  }
+}
